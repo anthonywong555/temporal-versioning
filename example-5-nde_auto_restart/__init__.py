@@ -1,0 +1,1 @@
+TASK_QUEUE = "nde-auto-restart"
